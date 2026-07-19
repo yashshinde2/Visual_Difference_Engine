@@ -1,4 +1,4 @@
-# Visual Difference Engine
+# Visual Difference Engine -
 
 An intelligent computer vision system designed to identify, analyze, and visualize structural differences between images using advanced image processing techniques. The platform automates visual comparison workflows and generates detailed anomaly insights through heatmaps, similarity metrics, and region-based analysis.
 
